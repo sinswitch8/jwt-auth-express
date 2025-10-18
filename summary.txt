@@ -1,0 +1,2 @@
+# Planning
+Extract component-specific logic to separate folder
