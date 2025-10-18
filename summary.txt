@@ -1,2 +1,3 @@
 # Planning
 Extract component-specific logic to separate folder
+Update favicon to new project logo
